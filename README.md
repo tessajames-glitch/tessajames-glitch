@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=900&color=FF6B00&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=110&lines=root%40TessaJames%3A~%23+whoami;++++Full+Stack+Developer+%7C+System+Architect+%7C+Code+Phantom;root%40TessaJames%3A~%23+uptime;++++Always+online.+Always+shipping.+Never+stopping." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=900&color=FF6B00&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=80&lines=root%40TessaJames%3A~%23+whoami;++++Full+Stack+Dev+%7C+System+Architect+%7C+Code+Phantom" alt="Typing SVG" />
 
 </div>
 
@@ -10,14 +10,11 @@
 
 ```
 ┌──────────────────────────────────────────────────────────────────┐
-│                                                                  │
-│   SUBJECT    ::  TessaJames                   [ CLASSIFIED ]     │
-│   ROLE       ::  Full Stack Developer         [ CONFIRMED ]      │
-│   LOCATION   ::  [REDACTED]                   [ ENCRYPTED ]      │
-│   STATUS     ::  ● ONLINE                     [ LIVE FEED ]      │
-│   CLEARANCE  ::  root                         [ GRANTED ]        │
-│   MISSION    ::  Build fast. Break nothing. Ship everything.     │
-│                                                                  │
+│  SUBJECT    ::  TessaJames                    [ CLASSIFIED ]     │
+│  ROLE       ::  Full Stack Developer          [ CONFIRMED ]      │
+│  LOCATION   ::  [REDACTED]                    [ ENCRYPTED ]      │
+│  STATUS     ::  ● ONLINE                      [ LIVE FEED ]      │
+│  CLEARANCE  ::  root                          [ GRANTED ]        │
 └──────────────────────────────────────────────────────────────────┘
 ```
 
@@ -39,24 +36,32 @@ tessaj      007   75.5   5.8   postgresql -D /var/lib/postgres/data
 tessaj      008   71.3   5.1   mongod --auth --port 27017
 tessaj      009   67.9   4.7   docker compose up --build -d
 tessaj      010   63.4   4.2   kubectl rollout status deployment/prod
-tessaj      011   58.1   3.8   redis-server --maxmemory 512mb
-tessaj      012   54.7   3.3   git push --force-with-lease origin main
 ```
 
 ---
 
 ```bash
-root@TessaJames:~# cat /var/log/github_stats.log
+root@TessaJames:~# dpkg -l | grep installed
 ```
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=TessaJames&show_icons=true&bg_color=080808&border_color=FF6B00&title_color=FF6B00&icon_color=FF2200&text_color=CCCCCC&ring_color=FF2200&count_private=true&include_all_commits=true" />
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TessaJames&layout=compact&bg_color=080808&border_color=FF6B00&title_color=FF6B00&text_color=CCCCCC&langs_count=8" />
-
-<br/>
-
-<img width="68%" src="https://github-readme-streak-stats.herokuapp.com/?user=TessaJames&background=080808&border=FF6B00&ring=FF2200&fire=FF6B00&currStreakNum=FF6B00&sideNums=CCCCCC&currStreakLabel=FF2200&sideLabels=888888&dates=555555" />
+![React](https://img.shields.io/badge/React-FF6B00?style=flat-square&logo=react&logoColor=000000)
+![Next.js](https://img.shields.io/badge/Next.js-FF6B00?style=flat-square&logo=next.js&logoColor=000000)
+![TypeScript](https://img.shields.io/badge/TypeScript-FF6B00?style=flat-square&logo=typescript&logoColor=000000)
+![JavaScript](https://img.shields.io/badge/JavaScript-FF6B00?style=flat-square&logo=javascript&logoColor=000000)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-FF6B00?style=flat-square&logo=tailwindcss&logoColor=000000)
+![Node.js](https://img.shields.io/badge/Node.js-FF6B00?style=flat-square&logo=node.js&logoColor=000000)
+![Python](https://img.shields.io/badge/Python-FF6B00?style=flat-square&logo=python&logoColor=000000)
+![FastAPI](https://img.shields.io/badge/FastAPI-FF6B00?style=flat-square&logo=fastapi&logoColor=000000)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FF6B00?style=flat-square&logo=postgresql&logoColor=000000)
+![MongoDB](https://img.shields.io/badge/MongoDB-FF6B00?style=flat-square&logo=mongodb&logoColor=000000)
+![Redis](https://img.shields.io/badge/Redis-FF6B00?style=flat-square&logo=redis&logoColor=000000)
+![Docker](https://img.shields.io/badge/Docker-FF6B00?style=flat-square&logo=docker&logoColor=000000)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-FF6B00?style=flat-square&logo=kubernetes&logoColor=000000)
+![AWS](https://img.shields.io/badge/AWS-FF6B00?style=flat-square&logo=amazon-aws&logoColor=000000)
+![Linux](https://img.shields.io/badge/Linux-FF6B00?style=flat-square&logo=linux&logoColor=000000)
+![Git](https://img.shields.io/badge/Git-FF6B00?style=flat-square&logo=git&logoColor=000000)
 
 </div>
 
@@ -75,21 +80,6 @@ root@TessaJames:~# tail -f /proc/net/activity
 ---
 
 ```bash
-root@TessaJames:~# traceroute --contribution-grid
-```
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TessaJames/TessaJames/output/github-contribution-grid-snake-dark.svg"/>
-  <img alt="snake animation" src="https://raw.githubusercontent.com/TessaJames/TessaJames/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
-
-</div>
-
----
-
-```bash
 root@TessaJames:~# cat /etc/contact.conf
 ```
 
@@ -101,15 +91,8 @@ twitter   =  twitter.com/TessaJames
 email     =  [REDACTED — PGP KEY REQUIRED]
 
 [CONNECTION_POLICY]
-protocol  =  HTTPS/2
 status    =  ACCEPTING_CONNECTIONS
 response  =  ASYNC — within 24h
-ping      =  OPEN — collaboration welcome
-
-[LAST_SEEN]
-timestamp =  $(date +"%Y-%m-%d %H:%M:%S")
-node      =  github.com
-packet    =  README.md — transmitted successfully
 ```
 
 <div align="center">
@@ -119,6 +102,8 @@ packet    =  README.md — transmitted successfully
   // EOF — TessaJames/TessaJames — [ END OF LINE ]
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
+
+[![Profile Views](https://komarev.com/ghpvc/?username=TessaJames&style=flat-square&color=FF6B00&label=SESSIONS+LOGGED)](https://github.com/TessaJames)
 
 </div>
 
