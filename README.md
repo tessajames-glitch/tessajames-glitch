@@ -1,110 +1,93 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=080808&height=140&text=TESSA_JAMES&fontColor=FF6B00&fontSize=52&fontAlignY=52&desc=root%40darknode%3A~%23%20_%&descColor=FF2200&descSize=22&descAlignY=78" />
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=900&color=FF6B00&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=80&lines=root%40TessaJames%3A~%23+whoami;++++Full+Stack+Dev+%7C+System+Architect+%7C+Code+Phantom" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:1a0000&height=120&section=header&text=&fontColor=ffffff" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=FF0000&background=00000000&center=true&vCenter=true&width=700&lines=root%40tessajames%3A~%24+whoami;TESSA+JAMES;ACCESS+GRANTED...;LOADING+SHADOW+PROTOCOL...;%3E+SYSTEM+COMPROMISED+%E2%9C%93" alt="Typing SVG" />
 
 </div>
 
-<br/>
+<p align="center">
+  <img src="https://i.imgur.com/0XGtBJv.gif" width="500"/>
+</p>
 
-```
-┌──────────────────────────────────────────────────────────────────┐
-│  SUBJECT    ::  TessaJames                    [ CLASSIFIED ]     │
-│  ROLE       ::  Full Stack Developer          [ CONFIRMED ]      │
-│  LOCATION   ::  [REDACTED]                    [ ENCRYPTED ]      │
-│  STATUS     ::  ● ONLINE                      [ LIVE FEED ]      │
-│  CLEARANCE  ::  root                          [ GRANTED ]        │
-└──────────────────────────────────────────────────────────────────┘
+<pre align="center" style="background-color:#000000; color:#ff0000;">
+██████████████████████████████████████████████████████
+█ INITIATING CONNECTION...                             █
+█ TARGET: TessaJames                                   █
+█ STATUS: ONLINE                                       █
+█ THREAT LEVEL: ▓▓▓▓▓▓▓▓▓▓ MAXIMUM                     █
+██████████████████████████████████████████████████████
+</pre>
+
+<h3 align="center">💀 "I don't break systems. I become them." 💀</h3>
+
+---
+
+<h2 align="left">📡 root@tessajames:~# cat about_me.txt</h2>
+
+```yaml
+identity:
+  alias: "TessaJames"
+  class: "Full-Stack Phantom"
+  origin: "[ REDACTED ]"
+  status: "Compiling chaos into clean commits"
+  motto: "while(alive) { code(); haunt(); repeat(); }"
 ```
 
 ---
 
-```bash
-root@TessaJames:~# ps aux --sort=-%cpu | grep active_skills
-```
+<h2 align="left">🩸 root@tessajames:~# ls -la weapons/</h2>
 
-```
-USER        PID   %CPU  %MEM   COMMAND
-tessaj      001   99.1   9.4   react --concurrent --strict
-tessaj      002   95.3   8.7   nextjs --turbo --mode=production
-tessaj      003   91.8   8.1   typescript --strict --noImplicitAny
-tessaj      004   88.4   7.6   nodejs --experimental-modules server.js
-tessaj      005   84.2   6.9   tailwindcss --watch --minify
-tessaj      006   79.7   6.2   python3 -m fastapi --reload
-tessaj      007   75.5   5.8   postgresql -D /var/lib/postgres/data
-tessaj      008   71.3   5.1   mongod --auth --port 27017
-tessaj      009   67.9   4.7   docker compose up --build -d
-tessaj      010   63.4   4.2   kubectl rollout status deployment/prod
-```
+<p align="left">
+<img src="https://skillicons.dev/icons?i=js,ts,python,react,nodejs,docker,linux,git,bash,cpp&theme=dark" />
+</p>
 
 ---
 
-```bash
-root@TessaJames:~# dpkg -l | grep installed
-```
+<h2 align="left">⚰️ root@tessajames:~# tail -f system_log.txt</h2>
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TessaJames&theme=dark&hide_border=true&background=0D0D0D&stroke=FF0000&ring=FF0000&fire=FF0000&currStreakLabel=FF0000" />
+</p>
 
-![React](https://img.shields.io/badge/React-FF6B00?style=flat-square&logo=react&logoColor=000000)
-![Next.js](https://img.shields.io/badge/Next.js-FF6B00?style=flat-square&logo=next.js&logoColor=000000)
-![TypeScript](https://img.shields.io/badge/TypeScript-FF6B00?style=flat-square&logo=typescript&logoColor=000000)
-![JavaScript](https://img.shields.io/badge/JavaScript-FF6B00?style=flat-square&logo=javascript&logoColor=000000)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-FF6B00?style=flat-square&logo=tailwindcss&logoColor=000000)
-![Node.js](https://img.shields.io/badge/Node.js-FF6B00?style=flat-square&logo=node.js&logoColor=000000)
-![Python](https://img.shields.io/badge/Python-FF6B00?style=flat-square&logo=python&logoColor=000000)
-![FastAPI](https://img.shields.io/badge/FastAPI-FF6B00?style=flat-square&logo=fastapi&logoColor=000000)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FF6B00?style=flat-square&logo=postgresql&logoColor=000000)
-![MongoDB](https://img.shields.io/badge/MongoDB-FF6B00?style=flat-square&logo=mongodb&logoColor=000000)
-![Redis](https://img.shields.io/badge/Redis-FF6B00?style=flat-square&logo=redis&logoColor=000000)
-![Docker](https://img.shields.io/badge/Docker-FF6B00?style=flat-square&logo=docker&logoColor=000000)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-FF6B00?style=flat-square&logo=kubernetes&logoColor=000000)
-![AWS](https://img.shields.io/badge/AWS-FF6B00?style=flat-square&logo=amazon-aws&logoColor=000000)
-![Linux](https://img.shields.io/badge/Linux-FF6B00?style=flat-square&logo=linux&logoColor=000000)
-![Git](https://img.shields.io/badge/Git-FF6B00?style=flat-square&logo=git&logoColor=000000)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TessaJames&show_icons=true&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=FF0000&icon_color=FF0000&text_color=C0C0C0" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TessaJames&layout=compact&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=FF0000&text_color=C0C0C0" width="48%"/>
+</p>
 
 ---
 
-```bash
-root@TessaJames:~# tail -f /proc/net/activity
-```
+<h2 align="left">🕸️ root@tessajames:~# ./activity_graph.sh</h2>
 
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=TessaJames&bg_color=080808&color=FF6B00&line=FF2200&point=FF6B00&area=true&area_color=FF2200&border_color=FF6B00&title_color=FF6B00&radius=0" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TessaJames&theme=react-dark&bg_color=0D0D0D&color=FF0000&line=FF0000&point=ffffff&hide_border=true" width="95%"/>
+</p>
 
 ---
 
-```bash
-root@TessaJames:~# cat /etc/contact.conf
-```
+<h2 align="left">👁️ root@tessajames:~# cat trophies.txt</h2>
 
-```ini
-[NETWORK_INTERFACES]
-github    =  github.com/TessaJames
-linkedin  =  linkedin.com/in/TessaJames
-twitter   =  twitter.com/TessaJames
-email     =  [REDACTED — PGP KEY REQUIRED]
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TessaJames&theme=darkhub&no-frame=true&row=1&column=6&margin-w=10" />
+</p>
 
-[CONNECTION_POLICY]
-status    =  ACCEPTING_CONNECTIONS
-response  =  ASYNC — within 24h
-```
+---
+
+<h2 align="left">🔮 root@tessajames:~# connect --to=outside_world</h2>
+
+<p align="left">
+  <a href="https://github.com/TessaJames"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=red"/></a>
+</p>
+
+> _Replace the link above with your real profiles (LinkedIn, X/Twitter, portfolio, email) — kept minimal here so nothing points to a broken page._
+
+---
 
 <div align="center">
 
-```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  // EOF — TessaJames/TessaJames — [ END OF LINE ]
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0000,100:0d0d0d&height=100&section=footer"/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=TessaJames&style=flat-square&color=FF6B00&label=SESSIONS+LOGGED)](https://github.com/TessaJames)
+<sub>👻 visitors who dared to scroll this far:</sub><br/>
+<img src="https://komarev.com/ghpvc/?username=TessaJames&label=INTRUDERS+DETECTED&color=ff0000&style=flat-square"/>
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=080808&height=6" />
